@@ -1,0 +1,31 @@
+header{
+    background-color: #9acbbd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+header img{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 50%;
+}
+
+body{
+    margin: 0;   
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 15px;
+}
+
+a{
+    font-size: 18px;
+}
